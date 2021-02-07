@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 </head>
 <body>
-  <div class="jumbotron" style="background-image: url('https://mdn.mozillademos.org/files/7693/catfront.png')">
+  <div class="jumbotron" style="background-image: url('https://www.acq-intl.com/wp-content/uploads/2020/01/tech-cruve.jpg')">
       <h1 class="text-center">Welcome to</h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
                       class="img-responsive center-block" style="width:250px"/>
