@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 </head>
 <body>
-  <div class="jumbotron" style="background-image: url('https://www.acq-intl.com/wp-content/uploads/2020/01/tech-cruve.jpg')">
+  <div class="jumbotron" style="background-image: url('https://media.istockphoto.com/photos/white-low-poly-background-texture-3d-rendering-picture-id1069888198?k=6&m=1069888198&s=170667a&w=0&h=9dW5vORpRDUn0vvtoEdXx7Zgk0MBnmlsJshrPTnXTr0=')">
       <h1 class="text-center">Welcome to</h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
                       class="img-responsive center-block" style="width:250px"/>
