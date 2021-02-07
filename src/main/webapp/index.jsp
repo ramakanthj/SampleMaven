@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 </head>
 <body>
-  <div class="jumbotron" style="background-image: url('http://www.besthdwallpapergallery.com/wp-content/uploads/2019/05/3d-Hexagon-Wallpaper-HD.jpg')">
+  <div class="jumbotron" style="background-image: url('https://st3.depositphotos.com/1006832/15048/i/950/depositphotos_150485398-stock-photo-hexagon-background-3d-illustration.jpg')">
       <h1 class="text-center">Welcome to</h1>
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
                       class="img-responsive center-block" style="width:250px"/>
